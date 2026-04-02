@@ -16,9 +16,9 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Print da versão responsiva com CSS puro
 ![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](<image copy.png>)
+![alt text](<image copy 2.png>)
 
 ## Print da versão responsiva com Bootstrap
-![alt text](image-3.png)
-![alt text](image-4.png)
+![alt text](<image copy 3.png>)
+![alt text](<image copy 4.png>)
